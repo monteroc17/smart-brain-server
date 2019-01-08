@@ -12,7 +12,7 @@ const db = knex({
   client: 'pg',
   connection: {
     host : 'guarded-retreat-90274',
-    port: '5433',
+    // port: '5433',
     user : 'postgres',
     password : 'damoca12',
     database : 'smart-brain'
